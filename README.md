@@ -26,3 +26,7 @@ El usuario puede:
 
 ## 🌐 Demo Online
 https://fedebarrazaa.github.io/pokemon-api-app/
+
+<img width="1920" height="914" alt="image" src="https://github.com/user-attachments/assets/fb224b6c-f504-4f41-97dd-9973aa19aa06" />
+<img width="1920" height="910" alt="image" src="https://github.com/user-attachments/assets/fbd410f1-b2d7-45ab-b2bd-9b5822137cad" />
+
