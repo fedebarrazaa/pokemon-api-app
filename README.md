@@ -25,4 +25,4 @@ El usuario puede:
 - **pnpm** (Gestor de dependencias)
 
 ## 🌐 Demo Online
- [(https://fedebarrazaa.github.io/app-pokemon/)](https://fedebarrazaa.github.io/app-pokemon/)
+https://fedebarrazaa.github.io/pokemon-api-app/
