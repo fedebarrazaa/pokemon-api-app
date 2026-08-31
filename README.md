@@ -16,7 +16,7 @@ El usuario puede:
 - Búsqueda dinámica de Pokémon.
 - Visualización de tipos y estadísticas.
 - Diseño responsive para móviles y escritorio.
-- Contenido gestionado mediante **Contentful CMS**.
+- Contenido gestionado mediante Contentful CMS.
 
 ## 🛠 Tecnologías utilizadas
 
