@@ -1,7 +1,7 @@
 # App Pokémon 
 
 Una pequeña aplicación web que permite **explorar Pokémon**, ver sus tipos y estadísticas básicas.  
-Construida con **HTML, CSS, JavaScript, Parcel y Contentful**.
+Construida con **HTML, CSS, JavaScript, Parcel y CMS**.
 
 ## 🎯 Objetivo del juego
 
